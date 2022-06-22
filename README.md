@@ -1,3 +1,2 @@
-# react-tvuqs3
+# Book Store DApp
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-tvuqs3)
