@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;500;600&display=swap');
+
+* {
+  font-size: 14px;
+  font-family: poppins;
+  padding: 0 4px ;
+}
+button {
+  background: #3498db;
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  border-radius: 28px;
+  color: #ffffff;
+  outline: none;
+  font-size: 0.9rem;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: none;
+}
+
+button:hover {
+  background: #3cb0fd;
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+  outline: none;
+}
+.block{
+  width: 150px;
+  height: 120px;
+  background-color: #2980b9;
+  /* transition: width .2s, border-radius .3s; */
+}
+.block:hover{
+  transition: transform .2s;
+  transform: scale(0.2, 0.2);
+}
+span:hover {
+  background-color: green;
+}
+
+.w3-modal-content {
+  width: 90vw;
+}
+#span:hover{
+  background-color: white;
+}
+input:focus {
+  border: none;
+  outline: none;
+  border-bottom: 1px solid gray;
+}
+
